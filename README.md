@@ -1,7 +1,5 @@
 <!-- Animated Glitch Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00FFF0&center=true&vCenter=true&width=900&lines=Building+%26+Breaking+Systems+to+Understand+Them.;|">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&width=800&lines=Building+%26+Breaking+Systems+to+Understand+Them|&color=00FFEA&background=00000000">
