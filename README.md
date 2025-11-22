@@ -1,6 +1,4 @@
 <!-- Animated Glitch Banner -->
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&width=800&lines=Building+%26+Breaking+Systems+to+Understand+Them|&color=00FFEA&background=00000000">
 </p>
